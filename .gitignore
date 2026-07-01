@@ -1,0 +1,10 @@
+.DS_Store
+.claude/
+.vscode/
+.pytest_cache/
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.blend1
+experiments/

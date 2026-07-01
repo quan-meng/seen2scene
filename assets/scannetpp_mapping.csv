@@ -1,0 +1,2877 @@
+name,id
+wall,27
+floor,51
+ceiling,30
+ceiling lamp,8
+table,36
+curtain,40
+door,55
+blinds,40
+window,58
+office chair,50
+ceiling light,8
+cabinet,48
+bookshelf,48
+chair,50
+monitor,67
+object,0
+shelf,39
+storage cabinet,48
+window frame,0
+pipe,5
+fake ceiling,30
+whiteboard,0
+doorframe,0
+box,62
+heater,11
+structure,0
+storage rack,1
+kitchen cabinet,47
+sofa,46
+tv,71
+plant,29
+shower wall,0
+bed,17
+computer tower,24
+blanket,60
+windowsill,0
+trash can,35
+window sill,0
+books,0
+trash bin,35
+machine,11
+wardrobe,48
+cable tray,0
+jacket,12
+kitchen counter,0
+roof,0
+desk,65
+pillar,44
+sink,41
+bag,14
+towel,16
+carpet,0
+air duct,0
+counter,0
+keyboard,0
+electrical duct,0
+refrigerator,70
+pillow,31
+backpack,14
+rug,0
+suitcase,14
+window blind,0
+office table,36
+blackboard,0
+microwave,68
+shower curtain,40
+pedestal fan,69
+clothes,0
+printer,24
+stool,25
+beam,63
+ladder,0
+picture,0
+fume hood,0
+toilet,9
+windowframe,0
+joined tables,36
+cupboard,47
+crate,2
+rack,1
+pipe storage rack,1
+blind,40
+book,0
+experiment bench,50
+bottle,43
+pipes,5
+suspended ceiling,30
+air conditioner,11
+oven,68
+shower floor,51
+rolling cart,59
+bathtub,42
+beverage crate,2
+mirror,49
+paper,3
+power socket,0
+ceiling beam,63
+construction materials,0
+bucket,0
+glass wall,27
+shoe rack,1
+bench,50
+shoes,18
+telephone,28
+basket,20
+mattress,60
+stove,11
+gym mat,0
+cardboard box,62
+bin,35
+pc,0
+objects,0
+milling machine,11
+photocopy machine,11
+tv stand,56
+lab equipment,11
+laboratory bench,50
+poster,0
+open cabinet,48
+trolley,14
+scientific equipment,11
+lab machine,11
+whiteboards,0
+standing lamp,54
+blind rail,0
+coat,12
+ceiling lights,8
+washing machine,11
+laptop,28
+cushion,66
+hydraulic press,0
+office cabinet,48
+file cabinet,48
+laboratory cabinet,48
+ceiling ventilator,30
+kitchen unit,0
+board,0
+beanbag,14
+raised floor,51
+cloth,0
+office desk,65
+fan,69
+medical appliance,11
+dishwasher,11
+copier,0
+3d printer,24
+electrical control panel,0
+partition,59
+arm chair,50
+stairs,64
+radiator,0
+coffee table,36
+cart,59
+flat panel display,0
+file folder,15
+coffee machine,11
+cardboard,0
+floor mounted air conditioner,11
+television,71
+couch,46
+headboard,0
+stage,0
+exhaust fan,69
+drying rack,1
+interactive board,0
+laundry basket,20
+cables,0
+vacuum cleaner,11
+plant pot,44
+coffee maker,0
+wire tray,0
+training equipment,11
+sliding door,55
+comforter,0
+work bench,50
+bathroom cabinet,48
+fridge,70
+bar counter,0
+rolling blinds,40
+painting,0
+projector,0
+hose,0
+storage trolley,14
+coat hanger,0
+laboratory equipment,11
+duvet,0
+sofa chair,46
+air vent,0
+dining chair,50
+tv screen,67
+table lamp,19
+fume cupboard,48
+paper towel dispenser,0
+vent,0
+ventilation pipe,5
+kitchen sink,41
+floor lamp,19
+nightstand,4
+electrical panel,0
+kettle,44
+ceiling pipe,5
+classroom table,36
+bedsheet,17
+bottles,43
+steel beam,63
+treadmill,0
+clothes hanger,0
+light switch,34
+clothes dryer,11
+bicycle,0
+electric duct,0
+papers,3
+speaker,52
+light,19
+container,2
+armchair,50
+l-shaped sofa,46
+pinboard,0
+shower partition,0
+closet,48
+fire extinguisher,0
+computer desk,65
+lounge chair,50
+lamp,19
+office visitor chair,50
+garage door,55
+range hood,0
+staircase railing,64
+conference table,36
+book shelf,39
+power strip,0
+dresser,48
+ping pong table,36
+rolling chair,50
+bathroom stall,0
+tripod,0
+shirt,0
+false ceiling,30
+coat rack,1
+cloth rack,1
+roller blinds,40
+cable,0
+bedside table,36
+shoe,18
+air pipe,5
+brick wall,27
+decoration,45
+cloth hangers,0
+urinal,0
+ceiling vent,30
+mug,0
+folder,15
+frame,0
+bar stool,25
+compressor,0
+tile wall,27
+seat,0
+skylight,0
+cardboards,0
+mouse,0
+loft bed,17
+foosball table,36
+indoor crane,0
+squat rack,1
+umbrella,0
+high stool,25
+electrical box,62
+pallet cage,0
+backdrop,0
+tablecloth,36
+robot car,0
+overhead projector,0
+folding screen,67
+cpu,0
+standing poster,54
+dining table,36
+high table,36
+cup,61
+smoke detector,0
+desk fan,69
+banner,0
+microscope,0
+drum,0
+standing fan,69
+coat stand,54
+barbecue grill,0
+console,48
+room divider,0
+side table,36
+medical machine,11
+paper bag,14
+toilet paper,0
+wall cabinet,48
+shower ceiling,30
+christmas tree,0
+kitchen towel,16
+bathroom mat,0
+vertical blinds,40
+tap,0
+crates,2
+guitar,0
+exhaust duct,0
+luggage,14
+monitor cover,0
+floor sofa,46
+tray,0
+rolling table,36
+ventilation duct,0
+folding room divider,0
+desk lamp,19
+storage box,62
+freezer display counter,0
+broom,53
+vr setup,0
+yoga mat,0
+projector screen,67
+canvas,0
+surfboard,0
+shower,0
+water filter,0
+racing simulator,0
+car door,0
+interactive whiteboard,0
+bath cabinet,48
+pot,44
+chairs,50
+file organizer,15
+standing banner,54
+wheelchair,50
+jug,0
+partition wall,27
+tool rack,1
+shoes holder,54
+pan,0
+mat,0
+bathroom floor,0
+rice cooker,0
+shower head,0
+curtains,40
+socket,0
+tote bag,14
+electrical cabinet,48
+jar,32
+toilet brush,53
+wall lamp,19
+paper towel,16
+cleaning trolley,14
+curtain rod,0
+plate,0
+storage shelf,39
+high bench,50
+flowers,29
+blackboard frame,0
+hose pipe,5
+babyfoot table,36
+dish rack,1
+folders,15
+foldable closet,48
+vase,7
+bath tub,42
+bed frame,17
+air purifier,0
+cubicle door,55
+file rack,1
+exercise ball,21
+cutting board,0
+file binder,15
+bathroom counter,0
+dustbin,35
+ceiling cables,30
+plastic case,2
+sweater,0
+power cables,0
+janitor cart,59
+slippers,0
+laptop stand,54
+boots,0
+plank,0
+ottoman,25
+cord cover,0
+binder,0
+small cabinet,48
+duct,0
+folding sofa,46
+towel radiator,0
+paper organizer,15
+climbing wall,27
+wooden frame,0
+kitchen shelf,39
+faucet,0
+bathroom shelf,39
+light panel,0
+headphones,28
+soap dispenser,0
+ac system,0
+paper towels,16
+phone,28
+desk organizer,65
+toy,0
+bottle crate,62
+microwave oven,68
+rolled paper,3
+spray bottle,43
+helmet,0
+trashcan,35
+bowl,13
+tower pc,0
+trolley table,36
+exhaust pipe,5
+shelf trolley,14
+copy machine,11
+filer organizer,15
+curtain rail,0
+grab bar,0
+information board,0
+piano,0
+garage shelf,39
+hanging closet,48
+instant pot,44
+wall beam,63
+notebook,0
+basin,41
+table football,15
+whiteboard eraser,0
+paper shredder,3
+notice board,0
+plastic bag,14
+paper tray,3
+metal board,0
+dishes,0
+sheet,0
+mop,0
+plumbing pipe,5
+toaster,0
+shower pan,0
+locker,0
+air fryer,0
+jackets,12
+hanger,0
+tv mount,0
+tissue box,62
+information stand,54
+floor scrubber,51
+weighing scale,0
+workbench,50
+slipper,0
+toaster oven,68
+clock,0
+lab materials,0
+bike,0
+dumbbell,0
+paper rack,1
+drawer,0
+rolling curtain,40
+sink counter,0
+headphone,52
+documents,3
+fitted wardrobe,48
+wall hanging,27
+wall clock,27
+jerry can,44
+wooden plank,0
+tv table,36
+shower cabin,0
+scarf,0
+bathroom rack,1
+tube,0
+appliance,11
+ventilator,0
+spotlight,0
+fabric,0
+standing clothes hanger,54
+paper bin,35
+cooker hood,0
+reflection,0
+barber chair,50
+chandelier,19
+filing cabinet,48
+bench press,0
+suit cover,0
+espresso machine,11
+outlet,0
+standing light,54
+rolling shelf cart,39
+wall /other room,27
+trousers,0
+water dispenser,0
+serving trolley,14
+file,15
+guitar bag,14
+electric hob,0
+surfsuit,0
+magazine stand,54
+light stand,54
+toilet paper dispenser,0
+water heater,11
+storage container,2
+softbox,62
+vaccum cleaner,0
+recliner,0
+water kettle,44
+files,15
+pen holder,54
+wooden planks,0
+built-in shelf,39
+window pane,0
+wood planks,0
+photocopier,0
+glass bottle,43
+mini fridge,70
+picture frame,0
+ceiling fan,69
+smoke alarm,0
+papasan chair,50
+plates,0
+medicine cabinet,48
+foot rest,0
+air conditioning,0
+whiteboard stand,54
+wooden pallet,0
+shopping bag,14
+camping bed,17
+power panel,0
+bagpack,14
+decoration piece,45
+trolley tray,0
+shower rug,0
+power sockets,0
+floor mat,51
+wall strip,27
+bar table,36
+study table,36
+shower screen,67
+ceiling lamps,8
+control panel,0
+headset,0
+lectern,0
+oven range,68
+electrical control panels,0
+shopping trolley,14
+step stool,25
+cable pathway,0
+tv console,24
+electronic appliance,11
+lab coat,12
+grill,0
+pack,0
+shoe cabinet,48
+sliding door frame,0
+kitchen utensils,0
+portable fan,69
+cylinder,0
+glass shelf,39
+panel,0
+screen,67
+pelican case,2
+bedframe,0
+hat,0
+cable rack,1
+shelving cart,59
+computer table,36
+sheep doll,0
+monitor stand,54
+magazine,0
+equipment,11
+ottoman chair,50
+mouse pad,0
+mirror frame,49
+gym bag,14
+floor cushion,51
+calendar,0
+beach umbrella,0
+human skeleton,0
+paper cutter,3
+labcoat,12
+bath counter,0
+beverage crates,2
+table cloth,36
+blind rails,0
+plastic bottle,43
+tower fan,69
+easel,0
+jeans,0
+ceiliing,30
+white board,0
+tablet,36
+studio light,19
+bedside lamp,19
+equipment cover,11
+backsplash,0
+bathroom sink,41
+bottles case,62
+toilet paper holder,0
+briefcase,2
+pants,0
+air conditioner tower,11
+canister,32
+paper trays,3
+curtain rails,0
+laundry hanger,0
+stuffed animal,0
+cable duct,0
+sheets,0
+clothes rack,1
+multifunction printer,24
+gym mattress,0
+metal rack,1
+file shelves,39
+wall unit,27
+messenger bag,14
+kitchen counter top,0
+barrel,0
+countertop,0
+food container,2
+tool organizer,15
+sink pipe,5
+plastic box,62
+toilet seat,0
+tv board,0
+lab fridge,70
+folding chair,50
+dish drainer,0
+trash cans,35
+kitchen back splash,0
+hand shower,0
+rods,0
+flip flops,0
+plate rack,1
+filter jug,0
+dog bed,17
+boot,0
+sack,0
+mobile tv stand,56
+bedside shelf,39
+robot vacuum cleaner,11
+stapler,0
+keyboards,0
+cable conduit,0
+water bottle,43
+wall hooks,27
+shower hose,0
+footstool,25
+teddy bear,0
+shower curtain rod,0
+condiments,0
+bedside cabinet,48
+storage bin,35
+laboratory power supply,0
+flower pot,44
+watering can,44
+kitchenware,0
+folded table,36
+stools,25
+projection curtain,40
+boxes,62
+cover,0
+rolling trolley,14
+whiteboard mount,54
+electric kettle,44
+tree trunk,0
+softbox light,19
+computer,24
+exhaust hood,0
+spice rack,1
+bench stool,25
+computer monitor,67
+work station,0
+flipchart,59
+switch,34
+flush button,0
+push cart,59
+window head,0
+laundry rack,1
+stack of chairs,50
+cooking pot,44
+tube lights,19
+router,0
+cardbox,62
+wine rack,1
+file storage,15
+styrofoam box,62
+podium,0
+deck chair,50
+water pipes,5
+wall board,27
+night stand,4
+led ceiling fan,69
+tool box,62
+wall painting,27
+bean bag,14
+recesssed shelf,39
+globe,0
+garbage bin,35
+ornament,37
+game console,0
+tshirt,0
+plastic container,2
+projection screen,67
+bathrobe,0
+machine container,11
+skiboard,0
+paper stapler,3
+water jug,0
+wall shelf,39
+speaker stand,54
+filefolders,15
+rolling bag,14
+hair dryer,11
+dish drying rack,1
+tools,0
+dumbbell case,2
+soap bottle,43
+lid,0
+drum set,0
+shower tub,42
+small dresser,48
+tv trolley,24
+tubelight,19
+cupoard,48
+paper roll,3
+file holder,54
+ventilation,0
+hand bag,14
+bulletin board,0
+ring light,19
+tool,0
+carton,59
+delivery bag,14
+rolled papers,3
+towel heater,0
+kitchen pot,44
+electronic device,24
+mirror cabinet,48
+metal sheet,0
+stair,64
+mattresses,0
+tabletop,36
+duffel bag,14
+bottle carrier,20
+floor couch,46
+step,0
+bulletin boards,0
+tv receiver,24
+hairdryer,11
+water bubbler,0
+skateboard,0
+ball,21
+cable raceway,0
+high chair,50
+towel warmer,0
+suit,0
+t shirt,0
+workshop tool,0
+cable roller,0
+shopping basket,20
+recessed shelve,39
+headrail,0
+bath mat,0
+cap,12
+chopping board,0
+switchboard cabinet,48
+exit sign,0
+woofer,0
+water pipe,5
+wooden palette,0
+television stand,56
+envelope,0
+carboard box,62
+planter,7
+power cabinet,48
+brush,53
+fireplace surround,0
+toilet paper rolls,0
+cloth hanger,0
+microphone,15
+stack of paper,3
+ironing board,0
+document tray,3
+hole puncher,0
+balcony door,55
+chemical canister,32
+shoe box,62
+oscilloscope,0
+upholstered bench,50
+mini oven,68
+cat bed,17
+towel holder,0
+sign,0
+sidetable,36
+camera,0
+jerrycan,20
+apron,0
+dog bowl,13
+doormat,0
+main switchboard,34
+drawers,0
+cable panel,0
+coat hangers,12
+blinds rod,0
+centrifuge,0
+sponge,0
+document organizer,15
+light fixture,19
+platform trolley,15
+rolled poster,0
+rolling stand,54
+photo frame,0
+cloth piece,0
+gloves,0
+sill,0
+flag,0
+hand towel,16
+web cam,0
+running shoes,18
+paperbag,3
+mixer,0
+trash bag,14
+center table,36
+laptop bag,14
+folding umbrella,0
+crate trolley,2
+dustpan,0
+table fan,69
+ceiling lamp bar,8
+spice jars,32
+curtain frame,0
+wooden post,0
+portable ladder,36
+gym ball,21
+document holder,54
+glass pane,0
+high pressure cylinder,0
+baseboard,38
+laboratory pellet press,0
+first aid kit,0
+organizer,15
+weight plate,0
+laundry hamper,0
+plushie,0
+luggage bag,14
+stepladder,0
+tower ventilator,0
+boiler,0
+doorway,0
+knife set,0
+electric stove,11
+stand,54
+flower,29
+kitchen wall,27
+projector holder,54
+case,2
+piano stool,25
+pressure cooker,0
+shower faucet,0
+kitchen robot,0
+plush doll,0
+kitchen cloth,0
+cable spool,0
+sit-up pillow,31
+can,32
+fireplace,0
+shelve,39
+bladeless fan,69
+pegboard,0
+door mat,0
+plate weights,0
+emergency light,19
+sandals,0
+blind rod,0
+laptop table,36
+foreman grill,0
+rolling cabinet,48
+magazines,0
+powerstrip,0
+shower tray,0
+chemical barrel,0
+power socket unit,0
+surfing board,0
+baby stroller,0
+paintings,0
+notebooks,0
+posters,0
+magazine rack,1
+rolled blanket,60
+bags,14
+vice,0
+utensils,0
+wash basin,41
+pc tower,0
+drone,0
+cushions,66
+clothes drying stand,54
+skeleton,0
+webcam,0
+short table,36
+washbasin,41
+kitchen hood,0
+gym plate,0
+scale,0
+notice,0
+bedpost,17
+weight scale,0
+plant pot mat,0
+shower cubicle,0
+mop basin,41
+bananas,0
+chemical container,2
+safe box,62
+sneakers,0
+milk jug,0
+piano chair,50
+rolling blind,40
+baseball cap,12
+paper files,3
+christmas ornament,37
+shower seating,50
+blender,0
+pumper,0
+pictures,0
+rucksack,0
+gas tank,0
+sandal,0
+suit bag,14
+toilet flush button,0
+intercom,0
+stereo,0
+toiletry,0
+table mat,36
+exhaustive fan,69
+socket extender,0
+dispenser bottle,43
+medical stool,25
+railing,0
+belt,0
+shower sink,0
+wastebin,35
+chemical bottle,43
+folding table,36
+shower tap,0
+wall hanger,27
+model car,0
+plug,0
+microphone stand,54
+cd player,0
+charcoal bag,14
+pitcher,0
+power outlet,0
+shower door frame,0
+fluorescent lamp,19
+cabinet frame,48
+cabel,0
+dust pan,0
+door vent,0
+stack of tyres,0
+soap,0
+bar,0
+photo,0
+detergent bottle,43
+file tray,15
+guitar case,2
+eraser,0
+mousepad,0
+iron,0
+door lamp,0
+wood panel,0
+wire,0
+rag,0
+scooter,0
+egg carton,59
+marker,0
+water pitcher,0
+cable wheel,0
+billboard,0
+cooking pan,0
+hanging light fixture,19
+sauce pan,0
+storage,0
+roomba,0
+rolled cable,0
+overhead shower,0
+barbell,0
+chrismas tree,0
+rolled projection screen,67
+wooden crate,2
+mini shelf,39
+shampoo bottle,43
+paper towel package,0
+cutting boards,0
+emergency shower,0
+bracket,0
+towels,16
+umbrella stand,54
+heater tube,11
+loafers,0
+kettlebell,0
+pile of papers,3
+scanner,24
+paper holder,54
+dumbbells,0
+wifi router,0
+door handle,0
+oven gloves,12
+alarm,0
+shower glass,0
+file stack,15
+tissue dispenser stand,54
+wall hook,27
+power extension,0
+sauce rack,1
+tape dispenser,6
+water bucket,0
+mirror light,0
+bathroom holder,54
+shower arm,0
+candle,0
+toothbrush,53
+dumbell,0
+pouch,0
+tea pot,44
+tennis racket,1
+rolled backdrop,0
+glove dispenser,0
+drill,0
+watering pot,44
+panelboard,0
+paper towel rolls,0
+laptop case,28
+pot lid,0
+sofa cushion,46
+plastic tray,0
+pull up bar,0
+paper tube,3
+charger,0
+packet of toilet paper,0
+desk power strip,65
+insulated can,32
+extension cord,0
+vr headset,0
+closet rail,0
+stick,0
+remote control,0
+wood piece,0
+metal frame,0
+blinds rail,0
+cone,0
+pens,6
+kitchen knives,0
+mixer machine,11
+kitchen utensil,0
+seat cushion,66
+glass,0
+power switch,34
+floor wiper,0
+shower handle,0
+totebag,14
+mixer glass,0
+package,0
+sign board,0
+laundry vent,0
+long pillow,31
+plastic drum,0
+fruit,0
+stuffed toy,15
+pencil holder,54
+hand soap dispenser,0
+wall paper,27
+pen tray,6
+recycle bag,14
+recessed shower shelve,39
+kitchen stove,11
+glass plate,0
+anti splatter shield,0
+water tap,0
+pen,6
+facsimile,0
+dvd player,0
+water meter,0
+folder oragnizer,15
+shower mat,0
+photoframe,0
+headphone case,28
+tissue,0
+tea box,62
+air heater,11
+wooden stick,0
+cloths,0
+bed cover,17
+electrical pipe,5
+hand washing soap,0
+pizza box,62
+rod,0
+wooden board,0
+wall cord cover,27
+clothes hangers,0
+shower gel,35
+foot massager,0
+stuffed animal door insulator,0
+extension chord reel,0
+thermostat,0
+key hanger,0
+alligator clips,0
+folded cardboard box,62
+dish washer,0
+brushes,53
+towel paper dispenser,0
+socket strip,0
+flip flop,0
+column,44
+water meter cover,0
+metal mount,54
+wall calendar,27
+brief,0
+socket box,62
+cabinet side panel,48
+wall coat hanger,27
+gas cylinder,0
+knife holder,54
+badminton racket,1
+pole stand,54
+laptop sleeve,14
+chessboard,0
+bread toaster,0
+pencil case,2
+heels,0
+kitchen drawer,0
+candle holder,54
+barstool,50
+soap dish,26
+postcards,0
+dish soap bottle,43
+oven panel,0
+plush toy,15
+guillotine paper cutter,3
+conduit pipe,5
+rope,0
+cleaning mop,53
+french press,0
+wok pan,0
+paper towel roll,0
+toilet paper roll,0
+monitor support,15
+remote,0
+folded bag,14
+paper ram,3
+bedisde table,36
+prosthetic leg,0
+chart,59
+tool case,2
+dartboard,59
+milk cartons,59
+package bag,14
+electric guitar,0
+emergency kit,0
+kitchen glove,0
+recycle bin,35
+beaker stand,54
+handbag,14
+safe,0
+stabilizer,0
+tub,0
+dvd,0
+network socket,0
+satchel,0
+electric toothbrush,53
+tv remote,24
+notepad,0
+hand washing soap dispenser,0
+penholder,54
+toothpaste,0
+sculpture,0
+basketball,21
+cooling pad,0
+electric pot,44
+pencil cup,61
+plastic can,32
+flipflop,0
+hygiene product,0
+floor mats,0
+wall outlet,27
+tupperware,0
+cosmetic bag,14
+leather mattress,60
+purse,0
+cabinet base panel,48
+toilet papers,0
+power cord,0
+pallet,0
+running shoe,18
+floor cleaner,15
+utensil holder,54
+piano book,0
+calculator,0
+paper stack,3
+first aid cabinet,48
+hanging deer skull,0
+wall mounts,0
+wall coat rack,1
+glasses case,2
+salad spinner,0
+pamphlet,0
+knife,0
+detergent,0
+device,24
+kitchen appliance,11
+chain,0
+toothbrush holder,0
+pencils cup,61
+toy models,15
+shower valve,0
+insulated coffee mug,0
+frying pan,0
+paper box,62
+knife block,0
+desk light,65
+binding machine,11
+food,0
+shoe case,2
+rolling mat,0
+wooden brush,53
+neck pillow,31
+package of paper,3
+water boiler,0
+telephone stand,54
+tape,0
+wooden shelves,39
+cosmetic pouch,0
+bag of oranges,14
+caution board,0
+switchboard,34
+power adapter,0
+wooden plan,0
+camera bag,14
+garbage bin cover,0
+citrus juicer,0
+multiplug,0
+shade,40
+statue,0
+cutboard,0
+pepper mill,0
+control unit,0
+kitchen ceiling,30
+grill pan,0
+surveillance camera,0
+cleaning brush,53
+apples,0
+robot vaccuum cleaner,0
+plastic mat,0
+whiteboard marker,0
+action figure,0
+bunny chocolate,0
+decorative mirror,49
+tennis rackets,1
+footrest,0
+hanging hook,0
+flush tank,0
+napkin,0
+magazine holder,54
+banana,0
+paper puncher,3
+cd,0
+electric circuit board,0
+elephant toy,15
+cosmetic bottle,43
+wall mounted telephone,0
+watering bucket,0
+flush,0
+kitchen object,0
+mop cloth,53
+switchboard cover,34
+paint jar,32
+pull-up bar,0
+shower drain,0
+mount,0
+paper file,3
+oven glove,12
+midi controller,0
+light switches,34
+hair brush,53
+green vegetables,36
+head model,0
+onions,0
+drain,0
+laundry detergent,0
+packet,0
+teapot,44
+coaster,0
+fire alarm,0
+mirror lamp,0
+ceilng light,8
+water filter jug,0
+elephant decoration piece,45
+hand shower handle,0
+pan set,0
+notes,0
+fanny pack,11
+tissue paper,3
+thermos,0
+radiator pipe,5
+duster,0
+shower holder,54
+freezer,0
+plunger,0
+light cover,0
+circular tray,0
+pencil stand,54
+bedside counter,17
+game cd box,62
+surface cleaner,0
+lanyard,0
+moss pole,0
+electric box,62
+mop pad,53
+squeegee,0
+sticky notes,0
+coasters,0
+parcel,0
+hanging frame,0
+dish soap,0
+personal hygiene product,0
+bathroom slippers,18
+face mask,0
+stereo box,62
+game console controller,0
+file orginizer,15
+wire hider,0
+power board,0
+cleaning liquid,53
+bike helmet,0
+remote controller,0
+cutti̇ng board,0
+disinfectant dispenser,0
+internet socket,0
+hammer,0
+wlan router,0
+shower loofah,0
+vacuum flask,11
+ear muffs,0
+brochure,0
+kitchen roll,0
+wet wipes,0
+headphones case,28
+envelopes,0
+plant pot coaster,0
+shorts,0
+table clock,36
+toilet flush,0
+ar tag,0
+joystick,0
+cabinet top panel,48
+mailbox,2
+handle,0
+strainer,0
+cereal box,62
+potted plant,29
+game controller,0
+stamp,0
+liquid soap,0
+bread,0
+cream tube,0
+monitor holder,54
+dishwashing sponge,0
+hot bag,14
+intercom screen,67
+drainage,0
+bottle spray,32
+detergent bag,14
+milk carton,59
+vanity light,19
+snack bag,14
+sockets,0
+magnets,0
+scissors,0
+blind control rod,0
+power extender,0
+spool,0
+hole punch,0
+guitar pedal,0
+body weight scale,0
+figurine,0
+metal saw,0
+kitchen brush,53
+power brick,0
+soldering iron,0
+sandwich maker,0
+apple,0
+electrical board,0
+cable socket,0
+powerbank,0
+surface cleaning liquid,53
+glass jar,32
+scissor,0
+machine button,11
+phone tripod,28
+shower rod,0
+window handle,0
+soap container,2
+punching machine,11
+colander,0
+punching tool,0
+coffee pot,44
+flask,0
+hangers,0
+kitchen tap,0
+door knob,0
+flour bag,14
+night lamp,19
+multi socket,0
+arch folder,15
+hard drive,0
+coffee mug,0
+hangbag,14
+headphone bag,14
+toilet brush holder,54
+weights,0
+wine bottle,43
+cheese,0
+radio,0
+wall light,19
+dish,26
+marker storage,0
+food pot,44
+spray,0
+hanging light,19
+monitor light,19
+sticky note,0
+first aid box,62
+knob,0
+folder holder,54
+coffee jar,32
+saucer,13
+power supply,0
+socks,0
+hand vacuum,11
+dusting cloth,0
+juice box,62
+trivet,0
+dish washer soap,0
+silicon gun,0
+measuring spoon,0
+rubber water bag,14
+oragnizer,15
+monitor base,54
+lan port,0
+mushroom lamp,19
+marker eraser,0
+brief case,2
+blinds chain,0
+deodorant,0
+cleaner,0
+toiletry bottle,0
+circuit box,62
+door window,0
+voltage stabilizer,0
+glasses cover,0
+drilling machine,11
+tennis cap,12
+laptop cover,14
+phone stand,54
+electric socket,0
+usb hub,0
+leaf fan,69
+wallet,27
+magazine collector,0
+coffee,0
+star,0
+dish washing liquid,0
+paper package,3
+wall handle,27
+scrubber,0
+straws,0
+paper notebook,3
+toilet cleaner,0
+in-table power socket,36
+hand sanitizer,0
+intercom device,24
+emergency button,0
+chips can,32
+handwash,0
+wet tissue,0
+dried plant,29
+shaving foam,0
+ashtray,0
+tooth brush,53
+barcode scanner,24
+hand soap,0
+bunny decoration,45
+switch board,34
+rubber duck,0
+laptop charger,24
+dongle,0
+wall intercom,27
+funnel,0
+tumbler,0
+dishwashing soap,0
+guitar stand,54
+blowtorch,0
+toy car,15
+control switch,34
+jars,32
+toilet plunger,0
+flush plate,0
+paper note,3
+rugby ball,21
+wooden chest,0
+covered power socket,0
+hand washing liquid,0
+valve,0
+pot cover,0
+dishwashing liquid,0
+eggs,0
+portable speaker,36
+takeout box,62
+tissue paper roll,3
+bluetooth speaker,52
+handle bar,0
+cleaning cloth,53
+shower wiper,0
+cardboard boxes,62
+shower squeegee,0
+razor,0
+paper rolls,3
+palm rest,0
+fruits,0
+lotion,0
+spray can,32
+screwdriver,0
+pliers,0
+towel rack,1
+co detector,0
+product dispenser bottle,43
+tape roll,0
+dish brush,53
+moka pot,44
+sunblock,0
+stream deck,0
+radiator pipes,5
+card reader,0
+hair dryer holder,54
+paper packages,3
+whiteboard pens,6
+shelves,39
+stationery,6
+tissues,0
+wall speaker,52
+shampoo,0
+beverage can,32
+paper weight,3
+hairbrush,53
+cell phone,28
+hammer holder,54
+glove,0
+mobile phone,28
+electrical tape,0
+sponge cloth,0
+card,0
+postit note,0
+glue bottle,43
+juice tetrapack,0
+pencil,6
+highlighter,0
+ceiling speaker,52
+light bulb,19
+grab rail,0
+kitchen light,19
+headphone holder,54
+product tube,0
+comb,0
+pi̇cture,0
+jump rope,0
+bar soap,0
+coarser,0
+electrical plug,0
+speakers,52
+power plug,0
+coax outlet,0
+soap holder,54
+door stopper,0
+soap bar,0
+lint roller,0
+duct tape,0
+weight plates,0
+box lid,0
+light switchs,34
+tea packets,0
+toilet holder,54
+backdrop hook,0
+holder,54
+oven controls,0
+network outlet,0
+towel hanger,0
+switches,34
+table tennis racket,0
+cards,0
+pocket calculator,0
+button,0
+post-it,0
+wood stick,0
+note,0
+mask,0
+creamer packets,0
+wireless charger,0
+smartphone,28
+paper notes,3
+tooth paste,0
+coffee packets,0
+post it,0
+cigarette packet,0
+door hinge,0
+ladle,0
+stovetop,11
+receipt,0
+probe,0
+fan switch,34
+spoon,0
+dispenser,0
+hook,0
+cabbage,14
+lan,0
+whiteboard marker holder,54
+doorknob,0
+nose spray,0
+soap tray,0
+flushes,0
+botttle,43
+correction fluid,0
+electrical outlet,0
+decoration pieces,45
+razor blade,0
+magnet,0
+vertical blind control,0
+cream bottle,43
+electrical adapter,0
+sticker,0
+datashow socket,0
+post it note,0
+earbuds,0
+wireless headphones,28
+whiteboard duster,0
+cabinet top,48
+cabinet door,48
+chair cushion,50
+acoustic guitar,0
+acoustic guitar case,2
+adaptor,0
+adjustable bench,50
+adjusting rod,0
+air conditioner remote,11
+air diffuser,0
+air freshener,0
+air humidifier,0
+air mattress,60
+air pump,0
+air ventilator,0
+alarm clock,0
+alcohol bottle,43
+alcoholic drinks,0
+alcove,0
+alcove bench,50
+amazon alexa,0
+arched ceiling,30
+audio amplifier,0
+audio equipment,11
+audio interface,0
+award,0
+award frame,0
+baby bassinet,0
+baby bean bag,14
+baby chair,50
+baby mattress,60
+baby musical crib,0
+backing paper pack,3
+backpacks,14
+backpag,14
+badge,0
+badminton racket bag,14
+bag of chips,0
+baguettes,0
+bakcpack,14
+baking pan,0
+baking paper roll,3
+baking sheet,0
+baking tray,0
+ball cart,15
+ballon,21
+baloons,0
+banquette,0
+bar cart,59
+basket contents,2
+basket drawer,2
+basketball basket,20
+baskets,20
+bath robe,0
+bath towel,16
+bathroom box,0
+bathroom cabinet drawer,48
+bathroom ceiling light,19
+bathroom clothes shelf,39
+bathroom divider,0
+bathroom door,55
+bathroom hook,0
+bathroom light,19
+bathroom mirror,49
+bathroom mirror lamp,0
+bathroom mirror panel,0
+bathroom rug,0
+bathroom stall partition,0
+bathroom tiled shelf,39
+bathroom tiled wall,0
+bathroom vent,0
+bathroom wall,0
+bathtub grab rail,0
+bathtub tap,0
+battery powered vacuum cleaner,11
+beach ball,21
+bean bag chair,50
+beanie,0
+bed board,17
+bed drawer,17
+bed sheets,17
+bedsheets,17
+bedside drawer unit,17
+beer crate,2
+beer pack,0
+belts,0
+bench back rest,0
+bench cushion,0
+bench power supply,0
+beverage bottle,43
+beverage bottles,43
+beverage cans,32
+beverage carton,32
+beverages,0
+bicycle helmet,0
+billiards table,36
+binders,0
+bio trash bin,35
+blackboard eraser,0
+blackboard stand,54
+blankets,60
+blender jug,0
+blinds roller,0
+blouse,0
+board eraser,0
+board game,0
+board games,0
+body lotion container,2
+body scrubber,0
+book stand,54
+boox,62
+botlle,43
+bottle cleaning brush,53
+bottle container,2
+bouquet,0
+bowls,13
+box container,62
+bread bag,14
+bread box,62
+bread knife,0
+bread loaf,0
+bread maker,0
+breadbox,62
+brick,0
+brochures,0
+broom handle,53
+broom head,53
+broomstick,53
+buckets,0
+bunkbed,17
+c,0
+cabinet ceilng,48
+cable container,2
+cable drum,0
+cable duck,0
+cable duct support,0
+cable duct supporters,0
+cable duct supports,0
+cable junction,0
+cable junction box,62
+cable strip,0
+cactus,0
+cafe curtain,40
+calander,0
+calender,0
+camera stand,54
+camping bag,14
+candles,0
+candy box,62
+cannister,32
+canopy bed,17
+carboard,0
+cardboard packing material,0
+cardboard tube,0
+carrier cart,59
+carrots,0
+carrying case,2
+cat food bowl,13
+cat play tower,0
+cat scratching post,0
+cds,0
+ceiling camp,30
+ceiling hanging lamp,19
+ceiling lamp shade,0
+ceiling lapm,30
+ceiling light fixture,8
+ceiling light rail,0
+ceiling object,30
+ceiling sprinkler,30
+ceiling ventilation panel,30
+ceiling ventilation valve,30
+cellphone,28
+central heating pipe,5
+central speaker,52
+cettel,0
+chair leg,50
+chalk board,0
+chalkboard,0
+charger head,0
+chewing gum,0
+chicken hat,12
+chimney,0
+chips,0
+chips bag,14
+chips box,62
+chocolate bar,0
+chocolate box,62
+chopsticks,0
+cigarette box,62
+cigarette pack,0
+clamp,0
+clamping lamp,19
+cleaner bottle,43
+cleaning agent bottle,43
+cleaning bucket,53
+cleaning product,53
+cleaning supply,53
+clipboard,0
+clithes,0
+clogs,0
+closet rod,48
+cloth bag,14
+cloth bags,14
+clothes basket,20
+clothes bin,35
+clothes box,62
+clothes dryer rack,1
+clothes drying rack,1
+clothes hanger rail,0
+clothes hanger rod,0
+clothes hanging rack,1
+clothes hanging rod,0
+clothes hook,0
+clothes iron,0
+clothes rail,0
+clothes rod,0
+clothes stander,54
+clothing,12
+clothing iron,24
+clothing rack,1
+clothng rail,0
+cnc machine,11
+coat hanger rack,1
+coat hook,0
+coat hooks,0
+coat wall rack,1
+coats,12
+coax outlets,0
+coax sockets,0
+coffee bean grinder,0
+coffee beans,0
+coffee capsules,54
+coffee cup,61
+compact wardrobe,48
+computer bag,14
+computer cabinet,48
+computer camera,24
+computer mouse,24
+computer screen,67
+condiment bottle,43
+conduit,0
+conjunction box,62
+container basket,20
+controller,0
+cooker,0
+cooking appliances,11
+cooking mittens,0
+cooking pot lid,0
+cooking utensil,0
+cooking utensils,0
+cookware,10
+corck board,0
+cord,0
+cord duct,0
+cord duct support,0
+corded landline,0
+corded telephone,28
+cordless vacuum cleaner,11
+corner bench,50
+cosmetic tissue,0
+cosmetic tube,0
+countertop appliances,11
+cover up panel,0
+cowboy hat,12
+cream,0
+creme,0
+crocs,0
+cube shelve,39
+cube shelves,39
+cubicle separator,0
+cucumber,0
+cups,61
+curling iron,0
+curtain blinds,0
+curtain holder,0
+curtain pull cord,0
+curtain roll,0
+curtain slider,0
+cushion cover,66
+cutlery stand,54
+cylindrical speaker,52
+cylindrical stool,25
+dart board,59
+darts board,59
+decoration centerpiece,45
+decoration lamp,19
+decorations,45
+decorative bowl,13
+decorative cloth,0
+decorative jar,32
+decorative mat,0
+decorative pillar,44
+decorative plant,29
+decorative table,36
+decorative tray,0
+decorative wall,27
+deodorant bottle,43
+deodorant can,32
+desk calendar,15
+desk chair,50
+desk devider,0
+desk divider,0
+desk mat,0
+desk mic,0
+desk organiser,0
+desk orginizer,0
+detergent box,62
+detergent packet,0
+detergent pods box,62
+digital camera,0
+digital piano,0
+digital piano cover,0
+digital piano stand,54
+dimmer switch,34
+dining table mats,36
+dinner table,36
+dinnerware,0
+disco ball,21
+disco light,19
+dish cloth,0
+dish container,2
+dish drying tray,0
+dish rag,0
+dish sponge,0
+dish sponges,0
+dish towel,16
+dishcloth,0
+dishcloths,0
+dishrag,0
+dishrags,0
+display,0
+display cabinet,48
+display case,2
+dj desk,65
+docking station,0
+document,3
+document binder,3
+document file folder,3
+document folder,3
+document rack,1
+document shredder,3
+dog bone,0
+dog toy,15
+dog toy rope,0
+door blocker,0
+door closer,0
+door clothes hooks,0
+door coat rack,0
+door hook,0
+door hooks,0
+door intercom,0
+door stoper,0
+door treshold,0
+doorbell chime,0
+doorframw,0
+doorstop,0
+double door,55
+drain stopper,0
+draw cord,0
+drawer cabinet,48
+drawer organizer,15
+drawstring pouch,0
+dress,0
+drink carton,0
+drinking fountain,0
+dropped ceiling,30
+drying basket,20
+drying machine,11
+dslr camera,0
+duct tape roll,0
+dumpster,0
+dust bin,35
+dust brush,53
+dust collector,0
+dustpan and brush,53
+earphones,0
+echo dot,0
+egg,0
+egg basket,20
+egg crate,2
+electric cabinet,48
+electric cable extender,0
+electric cooker,0
+electric fan,69
+electric kettle pad,0
+electric outlet,0
+electric panel,0
+electric panel door,55
+electric piano,0
+electric switch,34
+electric toorhbrush,53
+electric wiring,0
+electrical ducts,0
+electrical fan,69
+electrical socket,0
+electricity meter,0
+electronic breadboard,0
+electronic toothbrush,53
+electrucal duct,0
+emergency exit sign,0
+emergency sign,0
+end table,36
+energy meter,0
+entertainment center,0
+entryway organizer,15
+entryway shelf,39
+ergonomic pillow,31
+escape sign,54
+esd mat,0
+esd strap,0
+exercise bike,0
+exercise mat,0
+exhaust vent,0
+exhaustion fan,69
+extension board,0
+extension box,62
+extension plug,0
+external memory,0
+extractor fan,69
+eyeglasses,0
+face brick,0
+facemask,0
+facuet,0
+faucet handle,0
+file binders,15
+file box,62
+file folders,15
+fire destinguisher,0
+fire extinguisher case,2
+fire extinquisher,0
+first aid chart,59
+first-aid bag,14
+fitness mat,0
+flat screen display,67
+flatbed trolley,17
+flip chart,59
+flipflops,0
+floodlight,19
+floor panel,0
+floor vent,0
+floormat,0
+flor,51
+flower vase,7
+flush panel,0
+flush sensor,0
+flyswatter,0
+foam roller,0
+foil dispenser,0
+foldable bench,50
+foldable hanging closet,48
+foldable mattress,60
+folded blanket,60
+folded box,62
+folded cardboard boxes,62
+folded carton,59
+folded paper,3
+folded poster,0
+folded rug,0
+folded stool,25
+folded tablecloth,36
+folded towel,16
+folding bed,17
+folding desk,65
+folding door,55
+folding fan,69
+folding mattress,60
+folding stool,25
+food bag,14
+food jar,32
+food packaging,0
+food products,0
+food storage,0
+food supplies,0
+food supply,0
+food tray,0
+foodstuffs,0
+foosball board,15
+foot stool,25
+football,21
+football stand,54
+foset,0
+fosit,0
+frame window screen,67
+french door,55
+french window,58
+fridge magnet,0
+fruit basket,20
+fruit bowl,13
+fruit hanger,0
+fruits basket,20
+fryer,0
+frying pans,0
+fuse box,62
+fuse panel,0
+fusebox,2
+gamecontroller,0
+gamer chair,50
+gaming chair,50
+garbage bag roll,0
+garment bag,14
+glass bowl,13
+glass cup,61
+glass cups,61
+glass door,55
+glass table,36
+glass wiper,0
+glasses,0
+glasses holder,54
+golf rogue bag,14
+grape,0
+grated ceiling,30
+grated floor mat,0
+grated floor stand,54
+grater,0
+gripper,0
+guitar amplifier,0
+hair comb,0
+hair dryer cord,11
+hair straightener,0
+hairdryer attachment,11
+hall door,55
+hallway,0
+hammock,0
+hand bell,0
+hand dryer,11
+hand mixer,0
+hand sanitizer dispenser,0
+hand sanitizer stand,54
+hand soap bottle,43
+handheld vacuum cleaner,11
+handrail,0
+handsoap,0
+hanging calendar,0
+hanging chair,50
+hanging lamp,19
+hanging shelf,39
+hanging storage bin,35
+hanging towel,16
+head phones,28
+hearth,59
+heat pipe,5
+heat shield,0
+helf,0
+helping hands,0
+hifi system,0
+hiking pole,0
+hiking poles,0
+hob,0
+hood,0
+hoodie,0
+hot water bag,14
+humidifier,0
+hygiene products,0
+ice cube tray,0
+ice tray,0
+incense sticks,0
+industrial machine,11
+intercorm,0
+ironing machine,11
+ironing table,36
+item tray,0
+janitorial trolley,0
+joga mat,0
+jumper,0
+jumping blocs,0
+junction box,62
+kayak,0
+ketchup bottle,43
+kettlle,0
+key,0
+key reader,0
+keyboard piano,0
+khol,0
+kichen cabinet,48
+kitchen apron,0
+kitchen backsplash,0
+kitchen bar,0
+kitchen cabinet base,48
+kitchen cabinet top,48
+kitchen cabonet,0
+kitchen chimney,0
+kitchen container,2
+kitchen counter lamp,19
+kitchen floor,51
+kitchen hob,0
+kitchen hutch,0
+kitchen island,0
+kitchen knife,0
+kitchen lamp,19
+kitchen organizer,15
+kitchen paper,3
+kitchen paper roll,3
+kitchen paper rolls,3
+kitchen paper towel,16
+kitchen rack,1
+kitchen storage rack,1
+kitchen tiled floor,51
+kitchen tiled wall,27
+kitchen utensil holder,54
+kitchen utensils cup,61
+kitchen wall protector,27
+knives,0
+knives holder,54
+knives set,0
+knobs,0
+lab appliance,11
+lab cabinet,48
+lab incubator,0
+lab stool,25
+lamp foot switch,34
+lamp footswitch,34
+lamp supporter,0
+lamp switch,34
+landline phone,28
+landline socket,0
+landline telephone,28
+lantern,0
+laptop holder,54
+laptop pouch,28
+laptops,28
+large laundry basket,20
+lateral pulley,0
+lathe,0
+laundry,0
+laundry bag,14
+laundry detergent bag,14
+laundry detergent bottle,43
+laundry detergent pads,0
+laundry drying rack,1
+laundry machine,11
+laundy basket,20
+leak,0
+leftovers box,62
+leg rest stool,25
+lemons,0
+letter tray,0
+letter trays,0
+lever switch,34
+lever valve,0
+light dimmer,0
+light strip,0
+light swich,0
+light swicth,0
+light switch and power socket,34
+light switch and power sockets,34
+light swtich,0
+lightbulb,19
+liight switch,34
+lint roller refill,0
+liquid soap bottle,43
+liquid soap dispenser,0
+lock,0
+lockers,0
+loft,0
+long brush,53
+long pan,0
+loofah,0
+loth,0
+lotion bottle,43
+lounge pug,50
+low bookshelf,48
+lunch bag,14
+lunch box,62
+magnetic board,0
+make up product,0
+make up supplies,0
+make-up supply,0
+makeup bag,14
+makeup box,62
+makeup pen,0
+makeup set,0
+mantel clock,0
+manual forklift,0
+map,0
+map poster,0
+mattress topper,60
+mayonnaise bottle,43
+medal,0
+medals,0
+medication,0
+medicine bottle,43
+meeting booth,0
+meeting pod,0
+metal briefcase,2
+metal cup,61
+microphone holder,54
+mini pc,0
+mini sofa,46
+mirror panel lamp,0
+mirror shelf,39
+mixing bowl,13
+mobile tablet stand,36
+monitor arm,54
+monitor lamp,19
+mop bucket,53
+mop rag,53
+mosquito swatter,0
+motorcycle helmet,0
+mouse  mat,0
+mouse mat,0
+movement sensor,0
+moving dolly,0
+mugs,0
+multimeter,0
+murphy bed,17
+music box,62
+music equipment case,11
+music keyboard,0
+music record,0
+music stand,54
+napkin dispenser,0
+neck bolster,0
+neon light,19
+network switch,34
+newspapers,3
+nintendo switch,34
+o,0
+oil bottle,43
+oil diffuser,0
+olive oil bottle,43
+opaque window panel,0
+open box,62
+open wardrobe,48
+orange,0
+oranges,0
+organizer box,62
+orginizer,15
+ornamental box,62
+outdoor trash can,0
+oven mitt,12
+oven mitten,12
+oven mitts,12
+over door hooks,0
+overhead cabinet,48
+packets,0
+paint bucket,0
+pan lid,0
+panel door,55
+panel light,0
+pans,0
+pant,0
+pantry,0
+paper bags,3
+paper boxes,62
+paper container,2
+paper dispenser,3
+paper filers,3
+paper lamp,19
+paper napkin roll,3
+paper pag,3
+paper sign,3
+paper towel holder,0
+paper towel pack,0
+parallettes,0
+pasta box,62
+paste tube,0
+peeler,0
+pems,0
+pen jar,32
+pen pouch,6
+pen stand,54
+pencilcase,2
+pendant lamp,8
+pensil case,2
+pepper container,2
+perfume bottle,43
+pet bed,17
+pet feeding plates,0
+pet food bowl,13
+pet food container,2
+pet food tray,0
+pet mat,0
+pet water dispenser,0
+phone charger,24
+phone charger],24
+phone holder,54
+phone line outlet,0
+photograph,0
+piano bench,50
+piano foot pedal,0
+piano stand,54
+picture card,0
+picture frames,0
+picutre,0
+pillowcase,0
+pillows,31
+pin board,0
+ping pong paddle,0
+piping,0
+pissoir,0
+planks,0
+plant pot holder,0
+plant saucer,13
+plant stand,54
+plants,29
+plastic bags,14
+plastic basin,41
+plastic basket,20
+plastic bin,35
+plastic bucket,0
+plastic cup,61
+plastic foil box,62
+plastic food container,2
+plastic packet,0
+plastic plant,29
+plastic sack,0
+plastic stool,25
+plastic storage basket,20
+plastic storage baskets,20
+plastic wall container,27
+plastic wall panel,27
+plastic wall shelf,39
+plastic washbasin,41
+plastic wrap,0
+plastic wrap pack,0
+plate coaster,0
+plate flush,0
+plate of food,0
+platform,0
+platform dolly,0
+playstation,0
+pocket tissue,0
+pole,0
+pool cue,0
+pool cue holder,54
+pool stick holder,54
+pool table,36
+portable heater,36
+portable light,36
+portable vacuum cleaner,36
+post it notes,0
+poster rail,0
+poster stand,54
+pot holder,0
+pot rolling tray,0
+pots,44
+pouches,0
+power bank,0
+power cube,0
+power extension cable,0
+power oulet,0
+power outlets,0
+power switch box,62
+power switches,34
+pride flag,0
+pringles can,32
+printer cutter,24
+printing paper,3
+projector rail,0
+puch,0
+pullover,0
+pullup bar,0
+punching bag,14
+rack shelf,39
+racquet,0
+racquet bag,14
+rags,0
+rail shelf,39
+range,0
+recessed wardrobe,48
+record player,0
+refillable water bottle,43
+refirgerator,11
+regulator,0
+relaxing chair,50
+reusable plastic bag,14
+reusable shopping bag,14
+reusable shopping bags,14
+reusable water bottle,43
+ribbon,0
+rice bag,14
+ringlight,19
+rj45 outlet,0
+rj45 outlets,0
+robe,0
+robes,0
+robot,0
+robotic arm,0
+rock,0
+roll,0
+roll of tape,0
+rolled blinds,40
+rolled mat,0
+rolled mattress,60
+roller blind,40
+roller blinds pull cord,0
+roller shutter,0
+roller skate,0
+roller tray,0
+rolling pin,0
+rolling shelf,39
+roman chair,50
+room divider rail,0
+room freshener,0
+room partition,59
+round chair,50
+round pouch,0
+round table,36
+rubber glove,0
+rubber heating pad,0
+rubik's cube,0
+sac,0
+safety bollard,0
+safety poster,0
+salt,0
+salt container,2
+salt shaker,0
+sandwich bread,0
+sanitary bag,14
+sanitary bag dispenser,14
+sanitary product,0
+santa hat,54
+satchel bag,14
+satchels,0
+sauce bottle,43
+scrap carton,59
+scroll,0
+seasoning pot,44
+security cam,0
+security camera,0
+separation wall,27
+service trolley,0
+serving tray,0
+sewing machine,11
+shades,40
+shades roller,40
+shades slider,40
+shampoo bottles,43
+shampoo dispenser,0
+shawl,0
+shelf contents,0
+shelf rail,0
+shelving unit,0
+shirts,0
+shisha,0
+shoe horn,18
+shoe mat,0
+shoe tray,18
+shoe wall rack,1
+shoebox,62
+show curtain rod,0
+shower caddy,0
+shower cap,0
+shower control,0
+shower curtain rail,0
+shower door,55
+shower ewall,0
+shower gel bottle,44
+shower head mount,0
+shower pipe,5
+shower puff,0
+shower rack,1
+shower rail,0
+shower rod handle,0
+shower shelf,39
+shower sponge,0
+shower wal,0
+shutter box,62
+shwer curtain rail,0
+single couch,46
+sink brush,53
+sink countertop,0
+sink shelf,39
+ski,0
+ski boots,0
+ski goggles,0
+ski pole,0
+ski poles,0
+ski rack,1
+ski sticks,0
+skiing goggles,0
+skiing shoe,18
+skin care product,0
+skis,0
+sleep mask,0
+sleeping bag,14
+slide bar,0
+sliding blackboard track,1
+sliding door rail,0
+sliding glass door,55
+sliding window,58
+sling bag,14
+smal broom,53
+small appliance,11
+small bag,14
+small bookshelf,48
+small bowl,13
+small wardrobe,48
+small whiteboard,0
+smartboard,59
+smartphone holder,54
+smoke detectors,0
+snack,0
+sneaker,0
+snow sled,0
+snowboard,0
+snowglobe,0
+soap basket,20
+soap dispensers,0
+sock,0
+socket switch,34
+soda stream,0
+sofa cover,46
+sofa module,46
+sofa pillow,46
+soldering station,0
+sombrero,0
+sound absorbing panel,0
+space heater,11
+spatula,0
+spectacle case,2
+spectacles,0
+spectacles case,2
+spice,0
+spice bottle,43
+spice container,2
+spice jar,32
+spices,0
+spill mat,0
+spray bottles,43
+square conduit,0
+square plastic conduit,0
+stack of stools,25
+stacked chairs,50
+stair railing,64
+stair railling,64
+staircase,64
+stall door,55
+stand mixer,0
+standing calendar,0
+standing coat rack,1
+standing mirror,49
+standing podium,54
+standing speaker,54
+standing whiteboard,54
+stationaries,0
+stationary,0
+stationary cup,61
+stationery container,2
+stationery rack,1
+stationery tray,6
+steam iron,0
+step ladder,0
+stepstool,25
+stick vacuum cleaner,11
+stock pot,44
+stool bench,25
+storage basket,20
+storage bench,50
+storage chest,0
+storage closet,48
+storage grid,0
+storage organizer,15
+storage roller cart,59
+storage stool,25
+storage tank,0
+stove hood,11
+stove top,11
+straightening iron,0
+strip,0
+structural column,44
+structural pillar,44
+stuffed toys,15
+styrofoam,0
+sunglasses,0
+supermarket catalog,0
+surface mount raceway,0
+sweatpants,0
+swtich,0
+t-shirt,0
+table calander,36
+table decoration,36
+table leg,36
+table mirror,36
+table tennis bat,36
+tables,36
+tablet stand,36
+tableware,36
+tall table,36
+tapestry,0
+tarpaulin,0
+tea cup,61
+tea station,0
+teakettle,0
+telephone line socket,0
+telescope,0
+tempering valve,0
+tennis bag,14
+tennis ball,21
+tennis racquet,0
+tiled floor,51
+tiled wall,27
+tin box,62
+tissue bag,14
+tissue pack,0
+tissue roll,0
+toe kick,0
+toilet brush bowl,13
+toilet cabinet,48
+toilet flush buttons,0
+toilet paper pack,0
+toilet paper stack,0
+toiletries,0
+toiletry bag,0
+toiletry basket,20
+toliet paper,3
+toliet paper rolls,3
+tongs,0
+tool cabinet,48
+tool trolley,0
+tools storage,0
+tooth cleaning product,53
+tooth paste tube,0
+toothbrushes,53
+toothpaste bottle,43
+toothpaste tube,0
+top loading washing machine,11
+towel rail,0
+towel rod,0
+track system,1
+trash,0
+trash bag pack,14
+trash bags,14
+trash can lid,0
+trash container,2
+trashbin,35
+travel backpack,14
+travel bag,14
+travel suit bag,14
+travelling bag,14
+trenchcoat,12
+triangle flags,0
+tripod bag,14
+tripods,0
+trolley bag,14
+trunk,0
+tube container,2
+tube light,19
+tv cabinet,48
+tv controller,24
+typewriter,0
+umbrella can,32
+umbrella holder,54
+utensil canister,32
+utensil cup,61
+utensil rack,1
+utensil tray,0
+utility box,62
+utility cart,59
+utility room door,55
+vacuum cleaner head,11
+vacuum robot,11
+vape pen,0
+vegetable box,62
+vegetables,36
+ventilation fan,69
+ventilation shaft,0
+vise,0
+vottle,43
+waffle maker,0
+wal,27
+walking cane,0
+wall decoration,27
+wall flush,27
+wall frame,27
+wall hanging basket,20
+wall hanging rack,1
+wall hook rack,1
+wall mirror,49
+wall mounted coat rack,1
+wall mounted organizer,0
+wall mounted table,36
+wall mounted thermostat,0
+wall organizer,15
+wall panel,27
+wall phone,28
+wall rack,1
+wall shelf unit,39
+wall sign,27
+wall telephone sockets,0
+wall thermostat,27
+wall/other room,27
+wardrobe box,48
+wardrobe frame,48
+wardrobe rack,1
+wasching machine,11
+washcloth,0
+washing powder,0
+watch,0
+water boittle,43
+water container,2
+water cooler,0
+water pot,44
+water sweeper,0
+weight,0
+weight bar,0
+wetmop,0
+wheelbarrow,0
+wheeled chair,50
+wheeled side table,36
+wheeled storage cabinet,48
+whiskey bottle,43
+whiteboard markers,0
+whiteboard rag,0
+wicket door,55
+window casing,0
+window cleaning brush,53
+window counter,0
+window cover panel,0
+window door,0
+window lintel,0
+window shutters,0
+window sign,0
+window wiper,0
+windows,58
+wine bottles,43
+wiper,0
+wire basket,20
+wire junction,0
+wire spool,0
+wire stripper,0
+wires,0
+wood block,0
+wood branch,0
+wooden basket,20
+wooden beam,63
+wooden bench,50
+wooden block,0
+wooden box,62
+wooden panel,0
+wooden panel window,58
+wooden spoon,0
+woofer speaker,52
+wrist rest,0
+yoga brick,0
+yoga mat band,0
+yogurt cup,61
+zip up hoodie,0

@@ -1,0 +1,33 @@
+You are an indoor scene annotation expert. List exactly {n} alternative ways "{label}" might appear as an object category label in datasets like ScanNet++, ARKitScenes, or 3D-FRONT.
+
+Cover ALL five variation types below. Spread the {n} results evenly across them (aim for ~{n_per_type} per type):
+
+TYPE 1 — Synonyms and alternative names
+  e.g. "sofa" → couch, settee, divan
+       "wardrobe" → closet, armoire, clothes press
+       "ceiling lamp" → overhead light, pendant light, ceiling fixture
+
+TYPE 2 — Common abbreviations used in annotations
+  e.g. "nightstand" → NS, "ceiling lamp" → CL, "television" → TV
+       "bag luggage" → bag, "storage unit" → SU, "mobile device" → MD
+
+TYPE 3 — Split / joined / hyphenated spelling variants
+  e.g. "nightstand" → night stand, "bookshelf" → book shelf, book-shelf
+       "tv stand" → tvstand, tv-stand, "lightband" → light band, light-band
+       "bag luggage" → bag-luggage
+
+TYPE 4 — Singular / plural / possessive / demographic variants
+  e.g. "bins" → bin,  "plants" → plant,  "kids bed" → kid bed
+       "childrens desk" → children desk, "mens wardrobe" → wardrobe
+       "ceiling lamp" → ceiling lamps
+
+TYPE 5 — Frequent annotation typos and misspellings
+  e.g. "wardrobe" → wardobe, "bookshelf" → bookshef, bookshlef
+       "nightstand" → nightsatnd, "ceiling" → cieling, "cushion" → cusion
+       "appliance" → appliance (correct), appilance, aplliance
+
+Rules:
+- One name per line, no numbering, no bullets, no explanations
+- All lowercase
+- Do NOT repeat "{label}" itself
+- Do NOT include category prefixes like "furniture:" or "object:"

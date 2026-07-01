@@ -1,0 +1,73 @@
+id,name,color
+0,void,#E354C7
+1,rack,#8C88B1
+2,container,#B939AC
+3,document,#B42DA5
+4,nightstand,#434A7E
+5,pipe,#DF6691
+6,stationery,#A70296
+7,vase,#B9AD9A
+8,ceiling lamp,#9692DB
+9,toilet,#BA5C9A
+10,cookware,#B7004E
+11,appliance,#BD0C95
+12,clothing,#C83085
+13,bowl,#CC7778
+14,bag luggage,#9B5242
+15,others,#E41A9F
+16,towel,#D69A3E
+17,bed,#97AF5B
+18,footwear,#AB296A
+19,lighting,#E84CDA
+20,basket,#C63886
+21,ball,#F26795
+22,storage unit,#7F15A5
+23,media unit,#5133B8
+24,electronics,#B46BBD
+25,stool,#5F8977
+26,dish,#BD5073
+27,wall,#B9C2FE
+28,mobile device,#B54B92
+29,plants,#DA4BA7
+30,ceiling,#8D92F0
+31,pillow,#C19F00
+32,jar,#C9A5C0
+33,lightband,#D723B8
+34,electric,#F273E7
+35,bins,#C00F84
+36,table,#57779F
+37,ornament,#D65BB2
+38,baseboard,#60469B
+39,shelf,#653AA2
+40,curtain,#C47EB2
+41,basin,#BD8F8D
+42,bath,#DD9E77
+43,bottle,#E76A94
+44,column,#9075E6
+45,decoration,#BF3BB2
+46,sofa,#5DFE5B
+47,cupboard,#6902B5
+48,cabinet,#4138DA
+49,mirror,#CFB8F9
+50,chair,#56BE7D
+51,floor,#9F75BC
+52,speaker,#B02E90
+53,brush,#FE5A89
+54,stand,#864BD3
+55,door,#B07BF7
+56,tv stand,#00569A
+57,shower,#FC759F
+58,window,#B497EA
+59,art,#E0A5D1
+60,bedding,#B65524
+61,cup,#CD81A0
+62,box,#89509F
+63,beam,#D05DCC
+64,stair,#6387BF
+65,desk,#4575B7
+66,cushion,#A6B003
+67,screen,#9F54CB
+68,oven,#B23288
+69,fan,#CF99B1
+70,fridge,#921DB2
+71,tv,#849CA2
