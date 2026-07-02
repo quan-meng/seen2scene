@@ -206,3 +206,7 @@ Useful inference options:
       url={https://arxiv.org/abs/2603.28548},
 }
 ```
+
+## Acknowledgements
+
+This project is mainly built on and inspired by [SG-NN](https://github.com/angeladai/sgnn), [XCube](https://github.com/nv-tlabs/XCube), [fVDB](https://github.com/openvdb/fvdb-core), and [Direct3D-S2](https://github.com/DreamTechAI/Direct3D-S2). We also build on [VDBFusion](https://github.com/PRBonn/vdbfusion) for TSDF fusion and [BlenderProc](https://github.com/DLR-RM/BlenderProc) for synthetic scan rendering. We thank the authors and maintainers of these projects for releasing and maintaining their code, and thank the creators of [3D-FRONT/3D-FUTURE](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset), [ScanNet++](https://kaldir.vc.in.tum.de/scannetpp/), and [ARKitScenes](https://github.com/apple/ARKitScenes) for making their datasets available to the research community.
