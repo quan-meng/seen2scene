@@ -149,7 +149,8 @@ experiments/auto_encoder/
 Inference uses the same entry point as training. Select a non-training task subcommand and pass the experiment folder names used for the VAE, generator, and ControlNet checkpoints. Set `--slurm.cluster local` to run immediately on the current machine.
 
 ```bash
-# Unconditional patch generation with a trained Flow Matching generator.
+# Layout-conditioned patch generation with a trained Flow Matching generator.
+# By default, generation uses bounding boxes as the layout condition.
 python -m seen2scene.main generator task:generation \
   --ae-log AE_LOG \
   --ckpt-path GEN_LOG \
