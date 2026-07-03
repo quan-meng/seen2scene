@@ -1,12 +1,10 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# Installs VDBFusion from the public upstream v0.1.6 tag.
-# This script builds the package from source against conda-provided C++
-# dependencies.
+# Installs the Seen2Scene VDBFusion fork against conda-provided C++ dependencies.
 
-VDBFUSION_REPO="${VDBFUSION_REPO:-https://github.com/PRBonn/vdbfusion.git}"
-VDBFUSION_REF="${VDBFUSION_REF:-v0.1.6}"
+VDBFUSION_REPO="${VDBFUSION_REPO:-https://github.com/quan-meng/vdbfusion.git}"
+VDBFUSION_REF="${VDBFUSION_REF:-seen2scene-v0.1.6}"
 VDBFUSION_SRC="${VDBFUSION_SRC:-}"
 MAX_JOBS="${MAX_JOBS:-$(nproc)}"
 export CMAKE_BUILD_PARALLEL_LEVEL="${CMAKE_BUILD_PARALLEL_LEVEL:-${MAX_JOBS}}"
