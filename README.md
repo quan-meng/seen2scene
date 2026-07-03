@@ -42,7 +42,7 @@ Run commands from the repository root. The examples below use `python -m ...` so
 
 Set dataset paths with the `SEEN2SCENE_*_DIR` environment variables or in `seen2scene/configs/dataset.py`, then run the exporters:
 
-ARKitScenes and ScanNet++ raw fusion use the [Seen2Scene VDBFusion fork](https://github.com/quan-meng/vdbfusion). If you need to generate fusion files from raw scans, install it with `bash env/install_vdbfusion_0_1_6.sh`. This step is not required when `fusion_p_*.vdb` files are already prepared.
+All dataset fusion uses the [Seen2Scene VDBFusion fork](https://github.com/quan-meng/vdbfusion). If you need to generate fusion files from raw scans, install it with `bash env/install_vdbfusion_0_1_6.sh`. This step is not required when `fusion_p_*.vdb` files are already prepared.
 
 ```bash
 # 3D-FRONT
