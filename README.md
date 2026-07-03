@@ -150,7 +150,6 @@ Inference uses the same entry point as training. Select a non-training task subc
 
 ```bash
 # Layout-conditioned patch generation with a trained Flow Matching generator.
-# By default, generation uses bounding boxes as the layout condition.
 python -m seen2scene.main generator task:generation \
   --ae-log AE_LOG \
   --ckpt-path GEN_LOG \
