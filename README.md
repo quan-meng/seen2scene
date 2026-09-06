@@ -44,14 +44,14 @@ Run commands from the repository root. The examples below use `python -m ...` so
 
 ### Sample data
 
-A 100-scene sample of the processed 3D-FRONT data is available on [Hugging Face](https://huggingface.co/datasets/MQ66/seen2scene-FRONT-3D), which is enough to run the inference commands below without regenerating the fusion pipeline. It mirrors the default data layout, so no path configuration is needed:
+A 1000-scene sample of the processed 3D-FRONT data is available on [Hugging Face](https://huggingface.co/datasets/MQ66/seen2scene-FRONT-3D), which is enough to run the inference commands below without regenerating the fusion pipeline. It mirrors the default data layout, so no path configuration is needed:
 
 ```bash
 # Run from the repository root.
 hf download MQ66/seen2scene-FRONT-3D --repo-type dataset --local-dir .
 ```
 
-This places scenes at `data/3D-FRONT/v3/<scene_id>/`, the default `SEEN2SCENE_FRONT3D_DIR`. All 100 scenes are held out from training. See the dataset card for a smaller download that fetches only the two visibility levels the inference commands read.
+This places scenes at `data/3D-FRONT/v3/<scene_id>/`, the default `SEEN2SCENE_FRONT3D_DIR`. All 1000 scenes are held out from training: the complete 987-scene test split plus 13 validation scenes. See the dataset card for a smaller download that fetches only the two visibility levels the inference commands read.
 
 ### Full pipeline
 
