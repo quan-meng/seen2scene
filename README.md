@@ -6,6 +6,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2603.28548)
 [![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube)](https://www.youtube.com/watch?v=5qJYLjMsJe8)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Checkpoints-yellow)](https://huggingface.co/MQ66/seen2scene)
+[![Sample Data](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Sample%20Data-orange)](https://huggingface.co/datasets/MQ66/seen2scene-FRONT-3D)
 
 </div>
 
@@ -40,6 +41,19 @@ The FlashAttention, `fvdb`, and TorchSparse scripts install into the activated `
 Run commands from the repository root. The examples below use `python -m ...` so Python imports this checkout without requiring package installation. For data export and rendering, also install Blender/BlenderProc and set dataset paths with the `SEEN2SCENE_*_DIR` environment variables or in `seen2scene/configs/dataset.py`.
 
 ## Data Processing
+
+### Sample data
+
+A 100-scene sample of the processed 3D-FRONT data is available on [Hugging Face](https://huggingface.co/datasets/MQ66/seen2scene-FRONT-3D), which is enough to run the inference commands below without regenerating the fusion pipeline. It mirrors the default data layout, so no path configuration is needed:
+
+```bash
+# Run from the repository root.
+hf download MQ66/seen2scene-FRONT-3D --repo-type dataset --local-dir .
+```
+
+This places scenes at `data/3D-FRONT/v3/<scene_id>/`, the default `SEEN2SCENE_FRONT3D_DIR`. All 100 scenes are held out from training. See the dataset card for a smaller download that fetches only the two visibility levels the inference commands read.
+
+### Full pipeline
 
 Set dataset paths with the `SEEN2SCENE_*_DIR` environment variables or in `seen2scene/configs/dataset.py`, then run the exporters:
 
