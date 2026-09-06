@@ -53,6 +53,11 @@ hf download MQ66/seen2scene-FRONT-3D --repo-type dataset --local-dir .
 
 This places scenes at `data/3D-FRONT/v3/<scene_id>/`, the default `SEEN2SCENE_FRONT3D_DIR`. All 1000 scenes are held out from training: the complete 987-scene test split plus 13 validation scenes. See the dataset card for a smaller download that fetches only the two visibility levels the inference commands read.
 
+```bash
+hf download MQ66/seen2scene-FRONT-3D --repo-type dataset --local-dir . \
+  --include "data/3D-FRONT/v3/d99124eb-078f-480a-805b-b605da337245/*"
+```
+
 ### Full pipeline
 
 Set dataset paths with the `SEEN2SCENE_*_DIR` environment variables or in `seen2scene/configs/dataset.py`, then run the exporters:
