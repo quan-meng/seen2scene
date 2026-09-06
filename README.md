@@ -5,6 +5,7 @@
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://quan-meng.github.io/projects/seen2scene/)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2603.28548)
 [![YouTube](https://img.shields.io/badge/YouTube-Video-FF0000?logo=youtube)](https://www.youtube.com/watch?v=5qJYLjMsJe8)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Checkpoints-yellow)](https://huggingface.co/MQ66/seen2scene)
 
 </div>
 
@@ -123,7 +124,14 @@ Check available options with `python -m seen2scene.main {vae,generator,control} 
 
 ## Checkpoints
 
-Pretrained checkpoints are available on [OneDrive](https://1drv.ms/f/c/e762fb0a44e578db/IgC3MzxqVlM6SpRyUbQOFn0UAVwPjLYXZN4x3jPqNflMt6s?e=28xlmR). Download them into the matching experiment folders before running inference.
+Pretrained checkpoints are available on [Hugging Face](https://huggingface.co/MQ66/seen2scene). The repository mirrors the training log hierarchy, so downloading into the repository root places every checkpoint where the code expects it:
+
+```bash
+pip install -U "huggingface_hub[cli]"
+
+# Run from the repository root.
+hf download MQ66/seen2scene --local-dir .
+```
 
 Checkpoint paths follow the training log hierarchy:
 
@@ -139,7 +147,13 @@ experiments/auto_encoder/
                     └── checkpoint/vxl_0_011_last.ckpt
 ```
 
-`AE_LOG` is the VAE run folder, `GEN_LOG` is the Flow Matching generator run under that VAE, and `CONTROL_LOG` is the ControlNet completion run under that generator.
+`AE_LOG` is the VAE run folder, `GEN_LOG` is the Flow Matching generator run under that VAE, and `CONTROL_LOG` is the ControlNet completion run under that generator. The released checkpoints use:
+
+```text
+AE_LOG      = 2025-12-19_01-23-28-525
+GEN_LOG     = 2026-02-23_16-22-25-152
+CONTROL_LOG = 2026-02-26_14-01-23-930
+```
 
 - Generation requires the VAE checkpoint (`AE_LOG`) and Flow Matching generator checkpoint (`GEN_LOG`).
 - Completion requires the VAE checkpoint (`AE_LOG`), Flow Matching generator checkpoint (`GEN_LOG`), and ControlNet checkpoint (`CONTROL_LOG`).
